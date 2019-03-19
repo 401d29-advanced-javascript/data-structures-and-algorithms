@@ -11,4 +11,4 @@
 --When i >= 0, the for loop ceases and the new output array is returned.
 
 #Solution
---
+--![alt text](https://github.com/401d29-advanced-javascript/data-structures-and-algorithms/tree/master/code-challenges/assets/array_reverse.jpg "array_reverse image")
