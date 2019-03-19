@@ -10,3 +10,4 @@ const reverseArray = (arr) => {
 };
 
 reverseArray([1,2,3,4]);
+reverseArray(['log', 'sand', 'water']);
