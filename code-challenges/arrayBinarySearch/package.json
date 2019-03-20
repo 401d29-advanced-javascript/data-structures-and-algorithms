@@ -1,0 +1,16 @@
+{
+  "name": "arraybinarysearch",
+  "version": "1.0.0",
+  "description": "--Write a function called BinarySearch which takes --in 2 parameters: a SORTED ARRAY and the SEARCH KEY. --Without utilizing any of the built-in methods available --to your language. RETURN the INDEX of the array's ELEMENT --that is equal to the search key, or -1, if the element does not exist. -- --EX: input: [4,8,15,16,23,42], 15 --EX: output: 2",
+  "main": "array-binary-search.js",
+  "scripts": {
+    "start": "npm jest",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "jest": "^24.5.0"
+  }
+}
