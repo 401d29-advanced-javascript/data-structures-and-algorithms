@@ -1,0 +1,23 @@
+{
+  "name": "lab-05-linked-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401d29-advanced-javascript/Lab-05-Linked-List.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401d29-advanced-javascript/Lab-05-Linked-List/issues"
+  },
+  "homepage": "https://github.com/401d29-advanced-javascript/Lab-05-Linked-List#readme",
+  "dependencies": {
+    "eslint": "^5.15.3",
+    "jest": "^24.5.0"
+  }
+}
