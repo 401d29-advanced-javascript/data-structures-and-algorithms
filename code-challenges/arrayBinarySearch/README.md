@@ -22,4 +22,4 @@ does not exist.
 ##Solution
 We did not end up writing any actual code for this code challenge
 
---![alt text](https://github.com/401d29-advanced-javascript/data-structures-and-algorithms/tree/master/code-challenges/assets/array_binary_search.jpg "array_binary_search image")
+--![alt text](https://github.com/401d29-advanced-javascript/data-structures-and-algorithms/code-challenges/assets/array_binary_search.jpg)
